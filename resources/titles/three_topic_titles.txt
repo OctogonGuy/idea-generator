@@ -1,0 +1,11 @@
+// Mine
+{0}, {1}, and {2}: What They All Have in Common
+
+
+// News Articles
+A Brief History of {0}, From {1} to {2}
+Building a Better Brain through {0}, {1}, and {2}
+The viral story of a {0:s} and its {1} explains how the {2} industry is destroying the nation
+
+// CAH
+{0} + {1} = {2}

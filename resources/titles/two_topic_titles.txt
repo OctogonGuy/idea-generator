@@ -1,0 +1,36 @@
+// Mine
+What {0} {0:has/have} in Common with {1}
+How many {0:p} does it take to get to the center of a {1:s}
+You've heard of Elf on the Shelf, but now get ready for {0} on the {1}
+
+// News Articles
+{0:s}, {1:s}, and Other Terms You've Been Using Wrong
+Goodbye {0}, Hello {1}
+The {0} {0:is/are} {1}'s Most Tragic Casualty
+{0} {0:is/are} the Key to Solving {1}
+The 12 Greatest, Strangest, Most Transfixing {0} Scenes in the History of {1} Movies
+A Brief (But Complicated) History of {0} and {1}
+The Case of Banning {0} from {1}
+A Long-Dormant {0:s} has Reappeared in California, Bringing {1} along with It
+No, {0} {0:is/are} not Doomed because of {1}
+What I Wish I Knew about {0} Much Sooner, According to 12 {1:p}
+Why Were {0} so Obsessed with {1}?
+10 Stories of Epic {0} and Legendary {1}
+Forget {0}. This is {1:s}'s Greatest Challenge
+The Most Common {0} Mistakes, According to {1}
+{0:p} Might Win the Battle, but {1:p} Win the War
+
+// CAH
+Step 1: {0:s}\nStep 2: {1:s}\nStep 3: Profit
+I never understood {0} until I encountered {1}.
+In M. Night Shyamalan's new movie, Bruce Willis discovers that {0} had really been {1} all along.
+Dear Sir or Madam,\n We regret to inform you that the Office of {0} has denied you request for {1}.
+I made an app that's like {0}, but for {1}.
+
+// Mad Libs
+Those who had survived the {0} apocalypse would go days on end without seeing another {1}.
+In 1981, the U.S. launched the first Space {0}, named {1}.
+
+// Movie Titles
+A Hard {0:s}'s {1}
+{0:p} on a {1:s}

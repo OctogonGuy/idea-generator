@@ -1,0 +1,123 @@
+// Mine
+Top 10 Reasons {0} will be Popular Within the Next Decade
+5 Reasons You Need {0}
+Common Misconceptions about {0}
+Think Twice before Buying {0}
+The Making of {0}
+Hitchhiker's Guide to {0}
+Never Google '{0:s}' if You Want to Keep Your Sanity
+{0} could be the Next Big Trend in Gaming
+The True Tale of {0}
+What {0} {0:is/are} Like on the Moon
+Honey, I Shrunk the {0}
+What They Never Taught You about {0} in School
+Elon Musk on the Future of {0}
+{0} has Taken Over the Internet. Here's Why
+In the next Avatar sequel, Pandora will be invaded by {0}.
+{0} May End Up Being Mankind's Greatest Mistake
+Sticks and stones may break your bones, but {0} will never hurt you.
+We live in a society that worships money, youth, and {0}.
+Do you think {0} {0:is/are} good or bad for society? We took to the streets to find out.
+In a world where {0} rules above all else, someone must put a stop to it before chaos erupts.
+We asked {0:a/an} {0} expert to explain the fascinating yet complex history of {0}.
+
+// Idea Generators
+How {0} Changed the Way We Think about Death
+9 Things about {0} Your Kids Don't Want You to Know
+16 Ways {0} {0:is/are} Completely Overrated
+6 Unexpected Ways {0} can Give You Better Hair
+Why {0} {0:is/are} the New Black
+Expert Interview about {0}
+How {0} {0:is/are} not as Bad as You Think
+True Facts about the President's Love of {0}
+Shocking Ways {0} Will Make You a Better Dancer
+11 Reasons {0} {0:is/are} Sweeter than Christmas Morning
+What Your Parents Never Told You About {0}
+Where {0} will be Headed in the Next Five Years
+Why Mom Was Right about {0}
+How {0} {0:is/are} Bringing Sexy Back
+How to Stay Popular in the {0:s} World
+Why Our World would End if {0} Disappeared
+How {0} Can Help You Live a Better Life
+How {0} {0:is/are} Making the World a Better Place
+
+// News Articles
+Why You Should Completely Change Your {0} Every Month
+The World's 20 Most Beautiful {0:p} to Visit in Your Lifetime
+The Art of Navigating {0}
+The Invention that Made Us Human: {0}
+Manage Your {0} Efficiently and Get More Done in Less Time
+Instant {0} Recipe
+Ten {0} to Read Again and Again
+I've had it with {0}
+Wait, Why {0:is/are} {0} Still Like This?
+The 10 Most Iconic {0:p} in History
+The Fascinating Anatomy of the Royal {0}
+How Dostoyevsky Discovered the Meaning of Life in {0}
+6 Ways to Magically Regrow {0} in Only Water
+The Truth about the Internet's Favorite {0}
+The {0:s} Industry is Having an Existential Crisis
+Eight Shocking Secrets I Learned While Working on {0}
+New German {0} {0:is/are} Disrupting a $10 Billion Industry
+Everything You Need to Know About the True Origins of {0}
+13 {0:p} That Will Actually Make You Laugh out Loud
+What I Learned by Taking a Month-Long Break from {0}
+Why {0:is/are} {0} so Weird These Days?
+The Forgotten History of America's First {0}
+How {0} have Changed Our Brains
+A Love Letter to the World of {0}
+How to Make Your {0} Work for You Instead of Against You
+Almost Everything You Know about {0} is Wrong
+How '{0}' Took Over the Workplace
+There's a Better Way to Organize Your {0}
+Is {0} Good for You?
+I'd Like to Introduce You to the Real {0}
+It's Time to Address the {0} in the Room
+
+// CAH
+Next from J.K. Rowling: Harry Potter and the Chamber of {0}
+Maybe she's born with it. Maybe it's {0}
+{0}. It's a trap!
+Next on ESPN2, the World Series of {0}.
+While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on {0}.
+Coming to Broadway this season, {0}: The Musical!
+But before I kill you, Mr. Bond, I must show you {0}.
+What's my secret power? {0}
+The class field trip was completely ruined by {0}.
+What will I bring back in time to convince people I am a wizard? {0}
+"This is not about politics. This is about {0}."
+{0} can be too much of a good thing.
+Thanks for watching! If you want to see more vids of {0}, mash that subscribe button!
+It's a pity that kids these days are all getting involved with {0}.
+
+// ATA
+Annoying {0}
+Risky {0}
+Scary {0}
+Phony {0}
+Pleasant {0}
+Colorless {0}
+Sickening {0}
+Glittering {0}
+Terrible {0}
+Fresh {0}
+Cute {0}
+Spooky {0}
+Destructive {0}
+
+// Mad Libs
+6:00 a.m.: Wake up to the sound of {0} beeping.
+
+// Movie Titles
+When {0:p} Attack
+Night of the Living {0}
+Gone with the {0}
+Clockwork {0}
+The Wizard of {0}
+Sunset {0}
+Back to the {0}
+{0} on Elm Street
+{0} without a Cause
+The Lord of the {0:p}
+American {0}
+Tokyo {0}
