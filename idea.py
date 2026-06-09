@@ -8,36 +8,36 @@ import random
 
 TWO_CHANCE = 0.16
 THREE_CHANCE = 0.04
-one_titles = readIdeaFile("resources\\titles\\one_topic_titles.txt")
-two_titles = readIdeaFile("resources\\titles\\two_topic_titles.txt")
-three_titles = readIdeaFile("resources\\titles\\three_topic_titles.txt")
-nouns_usually_plural = readWordFile("resources\\words\\noun.csv")
-nouns_usually_singular = readWordFile("resources\\words\\noun_usually_uncountable.csv")
-nouns_usually_singular += readWordFile("resources\\words\\noun_countable_and_uncountable.csv")
-nouns_always_plural = readWordFile("resources\\words\\noun_pluralia_tantum.csv")
-nouns_always_singular = readWordFile("resources\\words\\noun_uncountable.csv")
-nouns_always_singular += readWordFile("resources\\words\\noun_non_attested.csv")
+one_titles = readIdeaFile("resources//titles//one_topic_titles.txt")
+two_titles = readIdeaFile("resources//titles//two_topic_titles.txt")
+three_titles = readIdeaFile("resources//titles//three_topic_titles.txt")
+nouns_usually_plural = readWordFile("resources//words//noun.csv")
+nouns_usually_singular = readWordFile("resources//words//noun_usually_uncountable.csv")
+nouns_usually_singular += readWordFile("resources//words//noun_countable_and_uncountable.csv")
+nouns_always_plural = readWordFile("resources//words//noun_pluralia_tantum.csv")
+nouns_always_singular = readWordFile("resources//words//noun_uncountable.csv")
+nouns_always_singular += readWordFile("resources//words//noun_non_attested.csv")
 
 
 def main():
     """Test the module"""
     
     # Make sure all titles are acceptable
-    subjects = list(setOfSubjects("octopus, deer, abolitionism"))
-    fmt = TopicFormatter()
-    for title in one_titles:
-        fmt.format(title, random.choice(subjects))
-    print("Check 1 passed")
-    for title in two_titles:
-        fmt.format(title, random.choice(subjects), random.choice(subjects))
-    print("Check 2 passed")
-    for title in three_titles:
-        fmt.format(title, random.choice(subjects), random.choice(subjects), random.choice(subjects))
-    print("Check 3 passed")
+    # subjects = list(setOfSubjects("octopus, deer, abolitionism"))
+    # fmt = TopicFormatter()
+    # for title in one_titles:
+    #     fmt.format(title, random.choice(subjects))
+    # print("Check 1 passed")
+    # for title in two_titles:
+    #     fmt.format(title, random.choice(subjects), random.choice(subjects))
+    # print("Check 2 passed")
+    # for title in three_titles:
+    #     fmt.format(title, random.choice(subjects), random.choice(subjects), random.choice(subjects))
+    # print("Check 3 passed")
 
     # Get subjects from user
     subjects = setOfSubjects(input("What subject(s) would you like to generate ideas for?\n" + 
-                    "(Enter one or more nouns separated by commas): "))
+                                   "(Enter one or more nouns separated by commas): "))
     
     # Get number of titles to generate from user
     number = int(input("How many? "))

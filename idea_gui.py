@@ -8,13 +8,13 @@ from tkinter import messagebox
 import idea
 
 
-WIDTH = 600     # Width of the window
-HEIGHT = 400    # Height of the window
+WIDTH = 900     # Width of the window
+HEIGHT = 600    # Height of the window
 BG = '#cbdbf5'  # Background color
 PADX = 20       # Horizontal padding around the idea view
 PADY = 10       # Vertical padding around the idea view
-icon_path = "resources\\images\\icon.png"
-octogon_image_path = "resources\\images\\octogon.png"
+icon_path = "resources//images//icon.png"
+octogon_image_path = "resources//images//octogon.png"
 
 
 def main():
